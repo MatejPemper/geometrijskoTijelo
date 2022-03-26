@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometrijskoTijelo", "geometrijskoTijelo\geometrijskoTijelo.csproj", "{CEB973C1-7C08-4803-A2F1-EBEE4588A138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB973C1-7C08-4803-A2F1-EBEE4588A138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB973C1-7C08-4803-A2F1-EBEE4588A138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB973C1-7C08-4803-A2F1-EBEE4588A138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB973C1-7C08-4803-A2F1-EBEE4588A138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89A3E40-3FD0-483E-9079-1C1D97CEF968}
+	EndGlobalSection
+EndGlobal
