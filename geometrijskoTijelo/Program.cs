@@ -18,9 +18,7 @@ namespace geometrijskoTijelo
             Kocka z = new Kocka();
             Console.WriteLine(GeoTijelo.brojac);
 
-
             Console.ReadKey();
-
         }
     }
 }
